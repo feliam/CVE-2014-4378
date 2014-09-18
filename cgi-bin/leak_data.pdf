@@ -1,0 +1,5 @@
+#!/bin/bash
+
+echo Content-type: application/pdf
+echo ""
+python mkLeakData.py
